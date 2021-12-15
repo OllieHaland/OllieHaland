@@ -3,7 +3,7 @@
 - 👀 I’m interested in geophysics, biophysics, enviornmental education
 - 🌱 I am currently working on reading through a textbook on geomechanics!
 - 💞️ I'd always love to hear of new oppertunities to apply skills I have and learn about new topics
-- 📫 Reach me at ejhaland17@earlham.edu
+- 📫 Reach me at ollie@haland.org
 
 <!---
 OllieHaland/OllieHaland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
